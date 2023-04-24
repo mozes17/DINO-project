@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\bin\Debug\DINO_PROJECT.exe.config
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\bin\Debug\DINO_PROJECT.exe
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\bin\Debug\DINO_PROJECT.pdb
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.Form1.resources
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.Properties.Resources.resources
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.exe
+C:\Users\Asus\source\repos\DINO_PROJECT\DINO_PROJECT\obj\Debug\DINO_PROJECT.pdb
